@@ -4,18 +4,13 @@ Shiju Varghese is a solutions architect, consultant, published author and speake
 
 Beyond technology, Shiju's primary interest lies at the intersection of science and spirituality. He is a practioner and teacher of Vipassanā Meditation.
 
-* [Shiju Varghese's Masterclass on Go and Distributed Systems](https://github.com/shijuvar/gopher/blob/master/golang-training.md)
-* [Clients of Shiju Varghese's Masterclass on Go and Distributed Systems](https://github.com/shijuvar/gopher/blob/master/golang-clients.md)
-* [Shiju Varghese's Conference Talks](https://github.com/shijuvar/gopher/blob/master/conferences.md)
-* [Upcoming Masterclass for Public](https://github.com/shijuvar/gopher/blob/master/active_masterclass.md)
 * [Blog](https://medium.com/@shijuvar)
 * [Twitter](https://twitter.com/shijucv)
-* [Github](https://github.com/shijuvar)
 * [LinkedIn](https://linkedin.com/in/shijuvar)
 * [Instagram](https://www.instagram.com/shijuvar/)
 
 # Shiju Varghese's Masterclass on Go Programming Language and Distributed Systems
-<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/gopher/blob/master/img/go_logo.png" align="center" height="200" width="300" ></a>
+<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/gopher/blob/master/img/tech_stack.png" align="center" height="200" width="300" ></a>
 
 Provides training (both class room and online) and consulting on Go, Microservices and cloud-native distributed systems architectures. Class room trainings are only available in India. 
 
