@@ -9,8 +9,8 @@ Beyond technology, Shiju's primary interest lies at the intersection of science 
 
 * [Shiju Varghese's Masterclass on Go and Distributed Systems](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md)
 * [Clients of Shiju Varghese's Masterclass on Go and Distributed Systems](https://github.com/shijuvar/shijuvar/blob/master/golang-clients.md)
-* [Shiju Varghese's Conference Talks](https://github.com/shijuvar/gopher/blob/master/conferences.md)
-* [Upcoming Masterclass for Public](https://github.com/shijuvar/gopher/blob/master/active_masterclass.md)
+* [Shiju Varghese's Conference Talks](https://github.com/shijuvar/shijuvar/blob/master/conferences.md)
+* [Upcoming Masterclass for Public](https://github.com/shijuvar/shijuvar/blob/master/active_masterclass.md)
 
 * [Blog](https://medium.com/@shijuvar)
 * [Twitter](https://twitter.com/shijucv)
