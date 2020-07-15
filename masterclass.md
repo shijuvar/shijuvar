@@ -1,5 +1,5 @@
 # Shiju Varghese's Masterclass on Go Programming Language and Distributed Systems
-<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/Go-Logo_Fuchsia.jpg" align="center" height="200" width="300" ></a>
+<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/go_red_logo.png" align="center" height="200" width="350" ></a>
 
 Provides training (both class room and online) and consulting on Go, Microservices and cloud-native distributed systems architectures. Class room trainings are only available in India. 
 
@@ -66,7 +66,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Distributed Tracing with OpenCensus and Zipkin.
 
 
-<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/gopher/blob/master/img/tech_stack.png" align="center" height="200" width="300" ></a>
+<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/tech_stack.png" align="center" height="200" width="300" ></a>
 
 ### Shiju Varghese
 <a href="(https://medium.com/@shijuvar"><img src="https://avatars0.githubusercontent.com/u/1546448" height="25%" width="25%"></a> 
