@@ -75,3 +75,8 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Building Microservices with Event Sourcing and CQRS. 
 * Microservices development with Go kit.
 * Distributed Tracing with OpenCensus and Zipkin.
+
+## Consulting and Training
+Contact at shijuvar@gophermonk.in, for training and consulting on the Go Programming Language and Distributed Systems.
+
+<b>Technologies:</b> Go, Google Cloud, gRPC, NATS 2.0, NATS Streaming, NATS JetStream, CockroachDB, Go kit, Microservices, DDD, Event Sourcing, CQRS.
