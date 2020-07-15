@@ -18,7 +18,7 @@ Beyond technology, Shiju's primary interest lies at the intersection of science 
 * [LinkedIn](https://linkedin.com/in/shijuvar)
 * [Instagram](https://www.instagram.com/shijuvar)
 
-### Consulting and Training
+### Consulting and Training on Go and Distributed Systems
 Contact at shijuvar@gophermonk.in, for training and consulting on the Go Programming Language and Distributed Systems.
 
 <b>Technologies:</b> Go, Google Cloud, gRPC, NATS, NATS Streaming, NATS JetStream, CockroachDB, Go kit, Microservices, Event-Driven Streaming Architecture, DDD, Event Sourcing, CQRS.
