@@ -1,13 +1,13 @@
 # Shiju Varghese's Masterclass on Go Programming Language and Distributed Systems
-<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/gopher/blob/master/img/go_logo.png" align="center" height="200" width="300" ></a>
+<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/Go-Logo_Fuchsia.jpg" align="center" height="200" width="300" ></a>
 
 Provides training (both class room and online) and consulting on Go, Microservices and cloud-native distributed systems architectures. Class room trainings are only available in India. 
 
 **Contact: shijuvar@gophermonk.in**
 
-**[List of clients of Shiju Varghese's Masterclass on Go](https://github.com/shijuvar/gopher/blob/master/golang-clients.md)**
+**[List of clients of Shiju Varghese's Masterclass on Go](https://github.com/shijuvar/shijuvar/blob/master/golang-clients.md)**
 
-**[Upcoming Masterclass for Public](https://github.com/shijuvar/gopher/blob/master/active_masterclass.md)**
+**[Upcoming Masterclass for Public](https://github.com/shijuvar/shijuvar/blob/master/active_masterclass.md)**
 
 # Courses
 # Professional Go  
