@@ -1,23 +1,6 @@
 # Upcoming [Masterclass](https://github.com/shijuvar/gopher/blob/master/golang-training.md) for Public  
 
 -------------------------------
-### Course: Distributed Systems and Microservices in Go
--------------------------------
-**Course Duration:** 12 hours (6 sessions of two hours) and assignments at offline 
-
-**Level:** Advanced
-
-**Prerequisite:** Completion of "Professional Go" course, or Go developers with deep knowledge on SOLID principles 
-
-**Dates:** Saturday, July 4; Sunday, July 5; Saturday, July 11 
-
-**Time (In IST):** 10:00 AM - 12:15 PM, 3:00 PM - 5:15 PM (Minimum 4 hours per day)
-
-**Mode:** Virtual Class Room
-
-**Fees:** INR 12,000 
-
--------------------------------
 
 ### Course: Professional Go
 -------------------------------
@@ -47,7 +30,7 @@
 
 **Dates:** Saturday, August 8; Sunday, August 9; Saturday, August 15
 
-**Time (In IST):** 10:00 AM - 12:15 PM, 3:00 PM - 5:15 PM (Minimum 4 hours per day)
+**Time (In IST):** 09:00 AM - 11:15 PM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
 
 **Mode:** Virtual Class Room
 
