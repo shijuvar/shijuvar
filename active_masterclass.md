@@ -1,4 +1,4 @@
-# Upcoming [Masterclass](https://github.com/shijuvar/gopher/blob/master/golang-training.md) for Public  
+# Upcoming [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
 
 -------------------------------
 
@@ -28,7 +28,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course, or Go developers with deep knowledge on SOLID principles 
 
-**Dates:** Saturday, August 8; Sunday, August 9; Saturday, August 15
+**Dates:** Saturday, August 1; Sunday, August 2; Saturday, August 8
 
 **Time (In IST):** 09:00 AM - 11:15 PM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
 
@@ -43,9 +43,9 @@
 
 **A:** The objective of the Masterclass is not about learning some syntax and grammer, but it's all about how to write idiomatic Go code based on SOLID principles and Clean architecture. If you're passionate on programming and want to write production-ready Go code based on the Go philosophy and good engineering principles, the Masterclass may help you. 
 
-**Q: How to enrol to the Masterclass?**
+**Q: How to enroll to the Masterclass?**
 
-**A**: Send an email to shijuvar@gophermonk.in to get the information and enrolment. You can register to the Masterclass by making a payment of INR 1,000. Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit from it.
+**A**: Send an email to shijuvar@gophermonk.in to get the information and enrollment. You can register to the Masterclass by making a payment of INR 1,000. Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit from it.
 
 **Q: What's the objective of the Masterclass Professional Go**
 
@@ -61,7 +61,7 @@
 
 **Q: What's the objective of the Masterclass Distributed Systems and Microservices in Go**
 
-**A:** The objective of the Masterclass **Distributed Systems and Microservices in Go** is to provide an overview about distributed systems architectures which includes Microservices based architecture, Event-Driven architectures with distributed messaging and streaming. The Masterclass will also provide guidance extensively on NATS ecosystem, gRPC, and Go kit based development for distributed systems programming and Clean architecture. Go kit based development will improve the quality of the application architecture regardless whether it's distributed systems or monolithic systems. 
+**A:** The objective of the Masterclass **Distributed Systems and Microservices in Go** is to provide a great insight on distributed systems architectures, which include Microservices based architectures, Event-Driven architectures with distributed messaging and streaming. The Masterclass will also provide guidance extensively on NATS ecosystem, gRPC, and Go kit based development for distributed systems programming and Clean architecture. Go kit based development will improve the quality of the application architecture regardless whether it's distributed systems or monolithic systems. 
 
 **Q: My idea of Microservices is all about containerization, or just about building REST APIs, or just about using frameworks like SpringBoot, or about running applications with Serverless (a fancy name, IMO). Can I join to the Masterclass Distributed Systems and Microservices in Go**
 
@@ -69,7 +69,7 @@
 
 **Q: Can I become an Architect by simply attending the Masterclass Distributed Systems and Microservices in Go**
 
-**A:** No. You can't. You can become a good architect only with several years of real-world experience on architecture. A good architect will never become a poster child of intellectual thoughts and named patterns, instead of it, he or she works on context-driven architecture based on the context of systems (The biggest problem of our industry is architects are becoming poster childs).  You can become a great Go programmer by simply attending the Masterclass Professional Go, but you can't become an architect by simply attending the Masterclass Distributed Systems and Microservices in Go. You may get some insight on distributed systems architectures with the Masterclass Distributed Systems and Microservices in Go.    
+**A:** No. You can't. You can become a good architect only with several years of real-world experience on architecture. A good architect will never become a poster child of intellectual thoughts and named patterns, instead of it, he or she works on context-driven architecture based on the context of the systems (The biggest problem of our industry is architects are becoming poster childs). You can become a great Go programmer by simply attending the Masterclass Professional Go, but you can't become an architect by simply attending the Masterclass Distributed Systems and Microservices in Go. You may get solid understanding on distributed systems architectures from a pragmatic viewpoint with the Masterclass Distributed Systems and Microservices in Go.    
 
 **Q: Will the Masterclass Distributed Systems and Microservices in Go demonstrate infrastructure things like load balancing services, load balancing gRPC, setting up API Gateway, setting up Kubernetes Sidecar container and L7 proxy, etc?**
 
