@@ -61,7 +61,7 @@
 
 **Q: What's the objective of the Masterclass Distributed Systems and Microservices in Go**
 
-**A:** The objective of the Masterclass **Distributed Systems and Microservices in Go** is to provide a great insight on distributed systems architectures, which include Microservices based architectures, Event-Driven architectures with distributed messaging and streaming. The Masterclass will also provide guidance extensively on NATS ecosystem, gRPC, and Go kit based development for distributed systems programming and Clean architecture. Go kit based development will improve the quality of the application architecture regardless whether it's distributed systems or monolithic systems. 
+**A:** The objective of the Masterclass **Distributed Systems and Microservices in Go** is to provide a great insight on distributed systems architectures, which include Microservices based architectures, Event-Driven architectures with distributed messaging and streaming. The Masterclass will also provide guidance extensively on NATS ecosystem, gRPC, and Go kit based development for distributed systems programming and Clean architecture. Go kit based development will improve the quality of the application architecture regardless of whether it's distributed systems or monolithic systems. 
 
 **Q: My idea of Microservices is all about containerization, or just about building REST APIs, or just about using frameworks like SpringBoot, or about running applications with Serverless (a fancy name, IMO). Can I join to the Masterclass Distributed Systems and Microservices in Go**
 
