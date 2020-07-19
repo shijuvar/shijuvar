@@ -30,7 +30,7 @@
 
 **Dates:** Saturday, August 1; Sunday, August 2; Saturday, August 8
 
-**Time (In IST):** 09:00 AM - 11:15 PM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
+**Time (In IST):** 10:00 AM - 12:15 PM, 03:00 PM - 05:15 PM (Minimum 4 hours per day)
 
 **Mode:** Virtual Class Room
 
