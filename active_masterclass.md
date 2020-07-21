@@ -28,7 +28,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course, or Go developers with deep knowledge on SOLID principles 
 
-**Dates:** Saturday, August 1; Sunday, August 2; Saturday, August 8
+**Dates:** Saturday, August 29; Sunday, August 30; Saturday, Septemper 5
 
 **Time (In IST):** 10:00 AM - 12:15 PM, 03:00 PM - 05:15 PM (Minimum 4 hours per day)
 
