@@ -1,25 +1,6 @@
 # Upcoming [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
 
 -------------------------------
-
-### Course: Professional Go
--------------------------------
-**Course Duration:** 16 hours (8 sessions of two hours) and assignments at offline 
-
-**Level:** Beginner to Advanced
-
-**Prerequisite:** Passionate on programming, and open to learn writing idiomatic Go code without having baggages
-
-**Dates:** Saturday, July 18; Sunday, July 19; Saturday, July 25; Sunday, July 26
-
-**Time (In IST):** 10:00 AM - 12:15 PM, 3:00 PM - 5:15 PM (Minimum 4 hours per day)
-
-**Mode:** Virtual Class Room
-
-**Fees:** INR 12,000
-
--------------------------------
-
 ### Course: Distributed Systems and Microservices in Go
 -------------------------------
 **Course Duration:** 12 hours (6 sessions of two hours) and assignments at offline 
