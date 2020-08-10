@@ -10,7 +10,7 @@
 
 **Prerequisite:** Passionate on programming, and open to learn writing idiomatic Go code without having baggages
 
-**Dates:** Saturday, Septemper 12; Sunday, Septemper 13; Saturday, Septemper 19; Sunday, Septemper 20
+**Dates:** To be declared later on.
 
 **Time (In IST):** 10:00 AM - 12:15 PM, 3:00 PM - 5:15 PM (Minimum 4 hours per day)
 
