@@ -10,7 +10,7 @@
 
 **Prerequisite:** Passionate on programming, and open to learn writing idiomatic Go code without having baggages
 
-**Dates:** To be declared later on.
+**Dates:** 23-Oct-2020, 24-Oct-2020, 30-Oct-2020, 31-Oct-2020
 
 **Time (In IST):** 10:00 AM - 12:15 PM, 3:00 PM - 5:15 PM (Minimum 4 hours per day)
 
@@ -27,7 +27,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course, or Go developers with deep knowledge on SOLID principles 
 
-**Dates:** To be declared later on.
+**Dates:** 26-Sep-2020, 27-Sep-2020, 03-Oct-2020
 
 **Time (In IST):** 10:00 AM - 12:15 PM, 03:00 PM - 05:15 PM (Minimum 4 hours per day)
 
