@@ -25,7 +25,7 @@
 
 **Level:** Advanced
 
-**Prerequisite:** Completion of "Professional Go" course, or Go developers with deep knowledge on SOLID principles 
+**Prerequisite:** Completion of "Professional Go" course, or Go developers with decent knowledge on the language 
 
 **Dates:** 26-Sep-2020, 27-Sep-2020, 03-Oct-2020
 
