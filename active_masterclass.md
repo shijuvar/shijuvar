@@ -12,7 +12,7 @@
 
 **Dates:** 23-Oct-2020, 24-Oct-2020, 30-Oct-2020, 31-Oct-2020
 
-**Time (In IST):** 09:00 AM - 11:15 AM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
+**Time (In IST):** 09:30 AM - 11:45 AM, 02:30 PM - 04:45 PM (Minimum 4 hours per day)
 
 **Mode:** Virtual Class Room
 
@@ -29,7 +29,7 @@
 
 **Dates:** 26-Sep-2020, 27-Sep-2020, 03-Oct-2020
 
-**Time (In IST):** 09:00 AM - 11:15 AM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
+**Time (In IST):** 09:30 AM - 11:45 AM, 02:30 PM - 04:45 PM (Minimum 4 hours per day)
 
 **Mode:** Virtual Class Room
 
