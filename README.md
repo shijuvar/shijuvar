@@ -21,4 +21,4 @@ Contact at shijuvar@gophermonk.in, for training and consulting on the Go Program
 
 <b>Technologies:</b> Go, Google Cloud, gRPC, NATS, NATS Streaming, NATS JetStream, CockroachDB, Go kit, Microservices, Event-Driven Streaming Architecture, DDD, Event Sourcing, CQRS.
 
-<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/tech_stack.png" align="center" height="200" width="300" ></a>
+<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/tech_stack.png" align="left" height="200" width="500" ></a>
