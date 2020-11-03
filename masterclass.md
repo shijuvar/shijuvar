@@ -67,6 +67,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 
 
 <a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/tech_stack_go.png" align="left" height="150" width="450" ></a>
+
 <br>
 
 ### Shiju Varghese
