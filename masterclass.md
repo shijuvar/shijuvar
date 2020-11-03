@@ -66,7 +66,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Distributed Tracing with OpenCensus and Zipkin.
 
 
-<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/tech_stack.png" align="center" height="200" width="300" ></a>
+<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/tech_stack_go.png" align="left" height="150" width="450" ></a>
 
 ### Shiju Varghese
 <a href="(https://medium.com/@shijuvar"><img src="https://avatars0.githubusercontent.com/u/1546448" height="25%" width="25%"></a> 
