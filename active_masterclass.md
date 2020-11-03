@@ -10,7 +10,7 @@
 
 **Prerequisite:** Passionate on programming, and open to learn writing idiomatic Go code without having baggages
 
-**Dates:** To be declared later
+**Dates:** Saturday, 21-Nov-20, Sunday, 22-Nov-20, Saturday, 28-Nov-20, Sunday, 29-Nov-20
 
 **Time (In IST):** 09:30 AM - 11:45 AM, 02:30 PM - 04:45 PM (Minimum 4 hours per day)
 
