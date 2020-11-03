@@ -69,10 +69,10 @@ Provides training (both class room and online) and consulting on Go, Microservic
 
 <br>
 <br>
-<p></p>
+
 ### Shiju Varghese
 <a href="(https://medium.com/@shijuvar"><img src="https://avatars0.githubusercontent.com/u/1546448" align="left" height="25%" width="25%"></a> 
-<b> Senior Consulting Solutions Architect: Go (Golang) and Cloud-Native Distributed Systems </b>
+#### Senior Consulting Solutions Architect: Go (Golang) and Cloud-Native Distributed Systems ##
 Shiju Varghese is a solutions architect, consultant, published author and speaker. He is focused on building large-scale distributed systems in the Go programming language, with a strong focus on clean architecture, domain-driven microservices architecture and event-driven streaming architecture. He is an early adopter of Go, and has been providing [consulting and training](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for building highly-scalable backend APIs and distributed systems with Go ecosystem. Before adopting Go as the primary technology stack, he worked extensively on Microsoft .Net technologies for more than a decade, and was awarded Microsoft MVP seven times. He has spoken at [numerous conferences](https://github.com/shijuvar/shijuvar/blob/master/conferences.md) including GopherCon India (Go Conference in India), DevConf.IN and Great Indian Developer Summit. He has authored two books on Go, titled "Web Development with Go" and "Go Recipes", both published by Apress.
 
 Beyond technology, Shiju's primary interest lies at the intersection of science and spirituality. He is a practioner and teacher of vipassanā meditation.
@@ -82,5 +82,3 @@ Beyond technology, Shiju's primary interest lies at the intersection of science 
 * [Github](https://github.com/shijuvar)
 * [LinkedIn](https://linkedin.com/in/shijuvar)
 * [Instagram](https://www.instagram.com/shijuvar/)
-
-
