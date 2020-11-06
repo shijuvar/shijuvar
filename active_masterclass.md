@@ -1,4 +1,4 @@
-# Upcoming [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
+# [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
 
 -------------------------------
 
