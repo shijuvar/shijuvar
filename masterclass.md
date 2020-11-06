@@ -35,7 +35,6 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * HTTP programming: From basics to building production-ready apps.
 *	Testing Go applications: From basics to BDD-style testing and mocking.
 * Go Modules and Project Athens.
-* Profiling and Tracing Go programs. 
 
 
 # Distributed Systems and Microservices in Go
