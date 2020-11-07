@@ -7,7 +7,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 
 **[List of clients of Shiju Varghese's Masterclass on Go](https://github.com/shijuvar/shijuvar/blob/master/golang-clients.md)**
 
-## [Dates and Time, Fee and FAQ for the Masterclass for Public](https://github.com/shijuvar/shijuvar/blob/master/active_masterclass.md)
+## [Dates and Time, Fee, Enrolment and FAQ for the Masterclass for Public](https://github.com/shijuvar/shijuvar/blob/master/active_masterclass.md)
 
 # Courses
 # Professional Go  
