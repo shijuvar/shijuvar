@@ -2,6 +2,8 @@
 ## Shiju Varghese's Corporate Training Clients on Golang
 Here're the clients of [Shiju Varghese's Golang Workshop](https://github.com/shijuvar/gopher/blob/master/golang-training.md)
 
+* GE Healthcare, Bengaluru
+* Grab, Bengaluru 
 * IBM, Bengaluru and various office locations
 * Intel Corporation, Bengaluru
 * Aspire Systems, Chennai
@@ -29,7 +31,6 @@ Here're the clients of [Shiju Varghese's Golang Workshop](https://github.com/shi
 * Toshiba, Bengaluru
 * Aristocrat Technologies, Gurgaon 
 * Dell EMC, Bengaluru
-* GE, Bengaluru
 * Cisco, Bengaluru
 * HP, Bengaluru
 * Huawei Technologies, Bengaluru
