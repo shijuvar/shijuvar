@@ -10,7 +10,7 @@
 
 **Prerequisite:** Passionate on programming, and open to learn writing idiomatic Go code without having baggages
 
-**Dates:** Saturday, 21-Nov-20, Sunday, 22-Nov-20, Saturday, 28-Nov-20, Sunday, 29-Nov-20
+**Dates:** Saturday, 16-Jan-21, Sunday, 17-Jan-21, Saturday, 23-Jan-21, Sunday, 24-Jan-21
 
 **Time (In IST):** 09:30 AM - 11:45 AM, 02:30 PM - 04:45 PM (Minimum 4 hours per day)
 
@@ -44,7 +44,7 @@
 
 **Q: How to enroll to the Masterclass?**
 
-**A**: Send an email to shijuvar@gophermonk.in to get the information and enrollment. You can register to the Masterclass by making a payment of INR 1,000. Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit from it.
+**A**: Send an email to shijuvar@gophermonk.in to get the information and enrollment. You can register to the Masterclass by making a payment of INR 1,000 to the UPI ID **shijuvar@ybl**. Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit from it.
 
 **Q: What's the objective of the Masterclass Professional Go**
 
