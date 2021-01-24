@@ -10,9 +10,9 @@
 
 **Prerequisite:** Passionate on programming, and open to learn writing idiomatic Go code without having baggages
 
-**Dates:** Saturday, 16-Jan-21, Sunday, 17-Jan-21, Saturday, 23-Jan-21, Sunday, 24-Jan-21
+**Dates:** Saturday, 06-Mar-21, Sunday, 07-Mar-21, Saturday, 13-Mar-21, Sunday, 14-Mar-21
 
-**Time (In IST):** 09:30 AM - 11:45 AM, 02:30 PM - 04:45 PM (Minimum 4 hours per day)
+**Time (In IST):** 09:00 AM - 11:15 AM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
 
 **Mode:** Virtual Class Room
 
@@ -27,9 +27,9 @@
 
 **Prerequisite:** Completion of "Professional Go" course, or Go developers with decent knowledge on the language 
 
-**Dates:** To be declared later on
+**Dates:** Saturday, 20-Feb-21, Sunday, 21-Feb-21, Saturday, 27-Feb-21,
 
-**Time (In IST):** 09:30 AM - 11:45 AM, 02:30 PM - 04:45 PM (Minimum 4 hours per day)
+**Time (In IST):** 09:00 AM - 11:15 AM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
 
 **Mode:** Virtual Class Room
 
