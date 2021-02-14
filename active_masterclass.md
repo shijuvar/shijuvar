@@ -8,7 +8,7 @@
 
 **Level:** Beginner to Advanced
 
-**Prerequisite:** Passionate on programming, and open to learn writing idiomatic Go code without having baggages
+**Prerequisite:** Passionate on programming, and having an attitude for learning to write idiomatic Go code without baggages.
 
 **Dates:** Saturday, 20-Mar-21, Sunday, 21-Mar-21, Saturday, 27-Mar-21, Sunday, 28-Mar-21
 
