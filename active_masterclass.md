@@ -80,4 +80,4 @@
 
 **Q: If I miss a session due to an unexpected reason. What Can I do?**
 
-**A:** If you miss a session due to unexpected reasons such as internet connectivity issues, I will provide guidance on it in week days.
+**A:** If you miss a session due to unexpected reasons such as internet connectivity issues, the trainer will provide guidance on it based on the time availability.
