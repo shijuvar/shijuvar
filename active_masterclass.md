@@ -27,7 +27,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course, or Go developers with decent knowledge on the language 
 
-**Dates:** Saturday, 06-Mar-21, Sunday, 07-Mar-21, Saturday, 13-Mar-21,
+**Dates:** Saturday, 06-Mar-21, Sunday, 07-Mar-21, Saturday, 13-Mar-21
 
 **Time (In IST):** 09:00 AM - 11:15 AM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
 
