@@ -1,6 +1,5 @@
 
 ## Shiju Varghese's Corporate Training/Consulting Clients on Golang and Distributed Systems
-Here're the clients of [Shiju Varghese's Golang Workshop](https://github.com/shijuvar/gopher/blob/master/golang-training.md)
 
 * Comcast, Chennai
 * GE Healthcare, Bengaluru
