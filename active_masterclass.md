@@ -12,7 +12,7 @@
 
 **Dates:** Saturday, 12-Jun-2021; Sunday, 13-Jun-2021; Saturday, 19-Jun-2021; Sunday 20-Jun-2021.
 
-**Time (In IST):** 09:00 AM - 11:15 AM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
+**Time (In IST):** 09:00 AM - 11:15 AM, 03:00 PM - 05:15 PM (Minimum 4 hours per day)
 
 **Mode:** Virtual Class Room
 
@@ -29,7 +29,7 @@
 
 **Dates:** Saturday, 03-Jul-2021; Sunday, 04-Jul-2021; Saturday, 10-Jul-2021.
 
-**Time (In IST):** 09:00 AM - 11:15 AM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
+**Time (In IST):** 09:00 AM - 11:15 AM, 03:00 PM - 05:15 PM (Minimum 4 hours per day)
 
 **Mode:** Virtual Class Room
 
