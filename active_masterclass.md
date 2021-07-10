@@ -10,7 +10,7 @@
 
 **Prerequisite:** Passionate on programming, and having an attitude for learning to write idiomatic Go code without baggages.
 
-**Dates:** Saturday, 12-Jun-2021; Sunday, 13-Jun-2021; Saturday, 19-Jun-2021; Sunday 20-Jun-2021.
+**Dates:** Saturday, 31-Jul-2021; Sunday, 01-Aug-2021; Saturday, 07-Aug-2021; Sunday 08-Aug-2021.
 
 **Time (In IST):** 09:00 AM - 11:15 AM, 03:00 PM - 05:15 PM (Minimum 4 hours per day)
 
