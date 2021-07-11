@@ -42,7 +42,7 @@
 
 **A:** The objective of the Masterclass is not about learning some syntax and grammer, but it's all about how to write idiomatic Go code based on SOLID principles and Clean architecture. If you're passionate on programming and want to write production-ready Go code based on the Go philosophy and good engineering principles, the Masterclass will help you. 
 
-The Trainer is not a  conventional trainer, but he is a senior Architect who has vast experience in building large-scale software systems, and thus the Masterclasses are designed for giving real-world insight with good software engineering philosophies. The Trainer is against people emphasize into syntax, frameworks and becoming the "poster child" of some named patterns without understanding the context of problem domain.  
+The Trainer is not a  conventional trainer, but he is a senior Architect who has vast experience in building large-scale software systems, and thus the Masterclasses are designed for giving real-world insight with good software engineering philosophies. The Trainer is against the attitude that emphasize into syntax, frameworks and becoming the "poster child" of some named patterns without understanding the context of problem domain.  
 
 **Q: How to enroll to the Masterclass?**
 
