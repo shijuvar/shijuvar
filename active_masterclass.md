@@ -40,7 +40,9 @@
 ## FAQ
 **Q: What's the objective of the Masterclass?**
 
-**A:** The objective of the Masterclass is not about learning some syntax and grammer, but it's all about how to write idiomatic Go code based on SOLID principles and Clean architecture. If you're passionate on programming and want to write production-ready Go code based on the Go philosophy and good engineering principles, the Masterclass may help you. 
+**A:** The objective of the Masterclass is not about learning some syntax and grammer, but it's all about how to write idiomatic Go code based on SOLID principles and Clean architecture. If you're passionate on programming and want to write production-ready Go code based on the Go philosophy and good engineering principles, the Masterclass will help you. 
+
+The Trainer is not a  conventional trainer, but he is a senior Architect who has vast experience in building large-scale software systems, and thus the Masterclasses are designed for giving real-world insight with good software engineering philosophies. The Trainer is against people emphasize into syntax, frameworks and becoming the "poster child" of some named patterns without understanding the context of problem domain.  
 
 **Q: How to enroll to the Masterclass?**
 
@@ -81,3 +83,9 @@
 **Q: If I miss a session due to an unexpected reason. What Can I do?**
 
 **A:** If you miss a session due to unexpected reasons such as internet connectivity issues, the trainer will provide guidance on it based on the time availability.
+
+**Q: Will the Trainer give technical guidance after completing the Masterclass?**
+
+**A:** The Trainer will give some technical guidance for your queries around the course contents even after completing the training for some limited time period based on his availability. 
+
+
