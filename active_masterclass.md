@@ -12,7 +12,7 @@
 
 **Dates:** Saturday, 31-Jul-2021; Sunday, 01-Aug-2021; Saturday, 07-Aug-2021; Sunday 08-Aug-2021.
 
-**Time (In IST):** 09:00 AM - 11:15 AM, 03:00 PM - 05:15 PM (Minimum 4 hours per day)
+**Time (In IST):** 09:00 AM - 11:15 AM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
 
 **Mode:** Virtual Class Room
 
@@ -27,9 +27,9 @@
 
 **Prerequisite:** Completion of "Professional Go" course, or Go developers with decent knowledge on the language 
 
-**Dates:** Saturday, 10-Jul-2021; Sunday, 11-Jul-2021; Saturday, 17-Jul-2021.
+**Dates:** Saturday, 21-Aug-2021; Sunday, 22-Aug-2021; Saturday, 28-Aug-2021.
 
-**Time (In IST):** 09:00 AM - 11:15 AM, 04:00 PM - 06:15 PM (Minimum 4 hours per day)
+**Time (In IST):** 09:00 AM - 11:15 AM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
 
 **Mode:** Virtual Class Room
 
