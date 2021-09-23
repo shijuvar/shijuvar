@@ -1,4 +1,4 @@
-## Shiju Varghese: Mind-Body Healing Practitioner and EFT Expert 
+## Shiju Varghese: Mind-Body Healing Practitioner and EFT Tapping Expert 
 
 Shiju Varghese is a mind-body healing practitioner, with an emphasis on Energy Psychology and Emotional Freedom Techniques (EFT or Meridian Tapping).
 He provides mind-body coaching and nervous system level healing to resolve stress, anxiety and emotional trauma. 
