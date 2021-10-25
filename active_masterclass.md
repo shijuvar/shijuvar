@@ -27,7 +27,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course, or Go developers with decent knowledge on the language 
 
-**Dates:** **Dates:** Saturday, 06-Nov-2021; Sunday 07-Nov-2021; Saturday, 13-Nov-2021
+**Dates:** **Dates:** Saturday, 13-Nov-2021; Sunday 14-Nov-2021; Saturday, 20-Nov-2021
 
 **Time (In IST):** 09:00 AM - 11:15 AM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
 
