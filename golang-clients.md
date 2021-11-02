@@ -1,6 +1,8 @@
 
 ## Shiju Varghese's Corporate Training/Consulting Clients on Golang and Distributed Systems
 
+* Byju’s,Bengaluru
+* Tavant,Bengaluru(VirtualMode) GlobalLogic Inc, Noida (Virtual Mode)
 * Comcast, Chennai
 * GE Healthcare, Bengaluru
 * Grab, Bengaluru 
