@@ -1,6 +1,7 @@
 
 ## Shiju Varghese's Corporate Training/Consulting Clients on Golang and Distributed Systems
 
+* Nokia, Bengaluru
 * Byju’s, Bengaluru
 * Tavant, Bengaluru
 * Comcast, Chennai
