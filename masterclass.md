@@ -1,7 +1,7 @@
 # Shiju Varghese's Masterclass on Go Programming Language and Distributed Systems
 <a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/go_red_logo.png" align="center" height="200" width="350" ></a>
 
-Provides training (both class room and online) and consulting on Go, Microservices and cloud-native distributed systems architectures. Class room trainings are only available in India. 
+Provides training (both class room and online) and consulting on Go, Microservices and cloud-native distributed systems architectures. Class room trainings are only available in India. Note that corporate trainings are conducted with customizable contents of two Masterclass for giving real-world guidance for building highly-scalable production-ready backend and distributed systems.    
 
 **Contact: shijuvar@gophermonk.in**
 
@@ -15,7 +15,6 @@ Provides training (both class room and online) and consulting on Go, Microservic
 -------------------------------
 
 **Course Duration:**  
-* Class Room Training: 3 Days 
 * Online Training: 16 hours (8 sessions of two hours) and assignments at offline 
 
 **Prerequisite:**  None
@@ -32,16 +31,16 @@ Provides training (both class room and online) and consulting on Go, Microservic
 *	Concurrency primitives: Goroutines and Channels.
 *	Advanced Concurrency patterns.
 * Mutexes.
+* Go Modules and Project Athens.
 * HTTP programming: From basics to building production-ready apps.
 *	Testing Go applications: From basics to BDD-style testing and mocking.
-* Go Modules and Project Athens.
+* Go 1.18 Generics
 
 
 # Distributed Systems and Microservices in Go
 ### *Building highly scalable distributed systems in Go*
 --------------------------------------------------------
 **Course Duration:** 
-* Class Room Training: 2 Days 
 * Online Training: 12 hours (6 sessions of two hours) and assignments at offline 
 
 **Prerequisite:**  Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles 
