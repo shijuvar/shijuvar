@@ -25,7 +25,7 @@
 
 **Level:** Advanced
 
-**Prerequisite:** Completion of "Professional Go" course, or Go developers with decent knowledge on the language 
+**Prerequisite:** Completion of "Professional Go" course, or Go developers with decent knowledge in the language 
 
 **Dates:** To be declared later
 
