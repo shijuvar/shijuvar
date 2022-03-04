@@ -15,7 +15,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 -------------------------------
 
 **Course Duration:**  
-* Online Training: 16 hours (8 sessions of two hours) and assignments at offline 
+* Online Training: 20 hours (10 sessions of two hours) and assignments at offline 
 
 **Prerequisite:**  None
 
@@ -35,6 +35,8 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * HTTP programming: From basics to building production-ready apps.
 *	Testing Go applications: From basics to BDD-style testing and mocking.
 * Go 1.18 Generics
+* Ent: An entity framework for Go
+* Building CLI applications
 
 
 # Distributed Systems and Microservices in Go
