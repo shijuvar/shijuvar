@@ -4,24 +4,24 @@
 
 ### Course: Professional Go
 -------------------------------
-**Course Duration:** 16 hours (8 sessions of two hours) and assignments at offline 
+**Course Duration:** 20 hours (10 sessions of two hours) and assignments at offline 
 
 **Level:** Beginner to Advanced
 
 **Prerequisite:** Passionate on programming, and having an attitude for learning to write idiomatic Go code without baggages.
 
-**Dates:** To be declared later
+**Dates:** Saturday, 26-Mar-2022; Sunday, 27-Mar-2022; Saturday 02-Apr-2022; Sunday, 03-Apr-2022, Saturday, 09-Apr-2022
 
 **Time (In IST):** 09:00 AM - 11:15 AM, 02:00 PM - 04:15 PM (Minimum 4 hours per day)
 
 **Mode:** Virtual Class Room
 
-**Fees:** INR 12,000
+**Fees:** INR 15,000
 
 -------------------------------
 ### Course: Distributed Systems and Microservices in Go
 -------------------------------
-**Course Duration:** 12 hours (6 sessions of two hours) and assignments at offline 
+**Course Duration:** 16 hours (8 sessions of two hours) and assignments at offline 
 
 **Level:** Advanced
 
@@ -33,7 +33,7 @@
 
 **Mode:** Virtual Class Room
 
-**Fees:** INR 12,000 
+**Fees:** INR 15,000
 
 -------------------------------
 
