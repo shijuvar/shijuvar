@@ -31,7 +31,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 *	Concurrency primitives: Goroutines and Channels.
 *	Advanced Concurrency patterns.
 * Mutexes.
-* Go Modules and Project Athens.
+* Go Modules.
 * HTTP programming: From basics to building production-ready apps.
 *	Testing Go applications: From basics to BDD-style testing and mocking.
 * Go 1.18 Generics
