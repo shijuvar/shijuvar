@@ -11,7 +11,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 
 # Courses
 # Professional Go  
-### *A deep dive into Go programming language and HTTP programming*
+### *A deep dive into Go programming language for building scalable applications*
 -------------------------------
 
 **Course Duration:**  
