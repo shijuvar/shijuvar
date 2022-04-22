@@ -56,9 +56,13 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **A:** No. You can't join in the Masterclass. Please read my article [The Java Baggage: Biggest Bottleneck to Adopt Go in Enterprises](https://medium.com/@shijuvar/the-java-baggage-biggest-bottleneck-to-adopt-go-in-enterprises-2a37c80d72d9).
 
-**Q: I'm currently working in a services company instead of a product engineering company. Can I join to the Masterclass?**
+**Q: I'm currently working in a services company instead of a product engineering company. Can I join in the Masterclass?**
 
-**A:** Yes, of course, you can join to the Masterclass. But, you may need to change some attitudes of services companies when you learn programming and architecture. 
+**A:** Yes, of course, you can join in the Masterclass. But, you may need to change some attitudes of services companies when you learn programming and architecture. 
+
+**Q: I'm a fresher software engineer. Can I join in the Masterclass?**
+
+**A:** If you're passionate on programming, you can join in the Masterclass regardless of your experience. In my mentoring experience, many fresher engineers learned and performed better than many senior people because they don't have any baggages in programming, and thus they are ready to learn when they get right mentoring. 
 
 **Q: What's the objective of the Masterclass Distributed Systems and Microservices in Go**
 
