@@ -52,9 +52,9 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **A:** The objective of the Masterclass **Professional Go** is to learn Go programming language in a holistic manner by understanding the Go philosophy. The Masterclass will give you great insight about writing idiomatic Go code based on SOLID principles and Clean architecture. This may transform your entire career.  You can dive into production-ready REST APIs after attending this Masterclass. But, if your idea of learning Go is just about learning some Go syntax, and looking equivalent features in Go for the features, which you have learned in other programming languages, then the Masterclass will extremely disappoint you. 
 
-**Q: I would like to join the Masterclass Professional Go, with a lot of baggages from my previous background, and thus I would like to learn Go by comparing with my previous experiences, which I have had with different programming languages. Can I join to the Masterclass?**
+**Q: I would like to join the Masterclass Professional Go, with a lot of baggages from my previous background, and thus I would like to learn Go by comparing with my previous experiences, which I have had with different programming languages. Can I join in the Masterclass?**
 
-**A:** No. You can't join to the Masterclass. Please read my article [The Java Baggage: Biggest Bottleneck to Adopt Go in Enterprises](https://medium.com/@shijuvar/the-java-baggage-biggest-bottleneck-to-adopt-go-in-enterprises-2a37c80d72d9).
+**A:** No. You can't join in the Masterclass. Please read my article [The Java Baggage: Biggest Bottleneck to Adopt Go in Enterprises](https://medium.com/@shijuvar/the-java-baggage-biggest-bottleneck-to-adopt-go-in-enterprises-2a37c80d72d9).
 
 **Q: I'm currently working in a services company instead of a product engineering company. Can I join to the Masterclass?**
 
@@ -64,9 +64,9 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **A:** The objective of the Masterclass **Distributed Systems and Microservices in Go** is to provide a great insight on distributed systems architectures, which include Microservices based architectures, Event-Driven architectures with distributed messaging and streaming. The Masterclass will also provide guidance extensively on NATS ecosystem, gRPC, and Go kit based development for distributed systems programming and Clean architecture. Go kit based development will improve the quality of the application architecture regardless of whether it's distributed systems or monolithic systems. 
 
-**Q: My idea of Microservices is all about containerization, or just about building REST APIs, or just about using frameworks like SpringBoot, or about running applications with Serverless (a fancy name, IMO). Can I join to the Masterclass Distributed Systems and Microservices in Go**
+**Q: My idea of Microservices is all about containerization, or just about building REST APIs, or just about using frameworks like SpringBoot, or about running applications with Serverless (a fancy name, IMO). Can I join in the Masterclass Distributed Systems and Microservices in Go**
 
-**A:** No. You can't join to the Masterclass. This Masterclass is conceived Microservices as a distributed systems architecture based on the idea of functional decomposition, which starts from the principles of Domain-Driven Design (DDD).
+**A:** No. You can't join in the Masterclass. This Masterclass is conceived Microservices as a distributed systems architecture based on the idea of functional decomposition, which starts from the principles of Domain-Driven Design (DDD).
 
 **Q: Can I become an Architect by simply attending the Masterclass Distributed Systems and Microservices in Go**
 
@@ -82,7 +82,7 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **Q: If I miss a session due to an unexpected reason. What Can I do?**
 
-**A:** If you miss a session due to unexpected reasons such as internet connectivity issues, the trainer will provide guidance on it based on the time availability.
+**A:** If you miss a session due to unexpected reasons such as internet connectivity issues or with any emergency situation, the trainer will provide guidance on it based on the time availability.
 
 **Q: Will the Trainer give technical guidance after completing the Masterclass?**
 
