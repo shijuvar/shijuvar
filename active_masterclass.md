@@ -27,7 +27,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course, or Go developers with decent knowledge in the language 
 
-**Dates:** Saturday, 14-May-2022; Sunday, 15-May-2022; Saturday, 21-May-2022;
+**Dates:** Saturday, 21-May-2022; Sunday, 22-May-2022; Saturday, 28-May-2022;
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
