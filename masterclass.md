@@ -52,18 +52,18 @@ Provides training (both class room and online) and consulting on Go, Microservic
 **Level:** Advanced 
 
 **Summary of Course Contents:**  
-* An introduction to cloud-native distributed systems architecture patterns.
-* Introduction to Microservices Architecture.
-* Decomposition Patterns for Microservices. 
+* An introduction to cloud-native distributed systems architecture patterns
+* Introduction to Microservices Architecture
+* Decomposition Patterns for Microservices 
 * Domain-Driven Design (DDD)
-* A deep dive into gRPC and Protocol Buffers.
+* A deep dive into gRPC and Protocol Buffers
 * Working with CockroachDB - A distributed, fault-tolerant database 
-* Managing Transactions in Microservices.
-* A deep dive into cloud-native messaging systems: NATS and NATS JetStream. 
-* Building Event-Driven Microservices with NATS.
-* Building Microservices with Event Sourcing and CQRS. 
-* Microservices development with Go kit.
-* Distributed Tracing with OpenCensus and Zipkin.
+* Managing Transactions in Microservices
+* A deep dive into cloud-native messaging systems: NATS and NATS JetStream 
+* Building Event-Driven Microservices with NATS
+* Building Microservices with Event Sourcing and CQRS
+* Microservices development with Go kit
+* Distributed Tracing with OpenCensus and Zipkin
 * Encore – Backend Development Engine
 
   
