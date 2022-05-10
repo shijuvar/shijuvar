@@ -59,7 +59,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * A deep dive into gRPC and Protocol Buffers.
 * Working with CockroachDB - A distributed, fault-tolerant database 
 * Managing Transactions in Microservices.
-* A deep dive into cloud-native messaging systems: NATS 2.0, NATS Streaming and NATS JetStream. 
+* A deep dive into cloud-native messaging systems: NATS and NATS JetStream. 
 * Building Event-Driven Microservices with NATS.
 * Building Microservices with Event Sourcing and CQRS. 
 * Microservices development with Go kit.
