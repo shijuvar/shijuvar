@@ -90,6 +90,6 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **Q: Will the Trainer give technical guidance after completing the Masterclass?**
 
-**A:** The Trainer will give some technical guidance for your queries around the course contents even after completing the training for some limited time period based on his availability. 
+**A:** The Trainer will give some technical guidance for your queries even after completing the training for some limited period of time, based on his availability.   
 
 
