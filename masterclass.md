@@ -1,7 +1,11 @@
 # Shiju Varghese's Masterclass on Go Programming Language and Distributed Systems
 <a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/go_red_logo.png" align="center" height="200" width="350" ></a>
 
-Provides training (both class room and online) and consulting on Go, Microservices and cloud-native distributed systems architectures. Class room trainings are only available in India. Note that corporate trainings are conducted with customizable contents of two Masterclass for giving real-world guidance for building highly-scalable production-ready backend and distributed systems.    
+Provides training (both class room and online) and consulting on Go, Microservices and cloud-native distributed systems architectures. Class room trainings are only available in India. 
+
+* Providing training and consulting for the successful adoption of Go programming language 
+* Providing One-on-One Mentoring to individuals on Go and distributed systems 
+* Architecture guidance for building highly scalable distributed systems and microservices
 
 **Contact: shijuvar@gophermonk.in**
 
