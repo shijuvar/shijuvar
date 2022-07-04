@@ -10,7 +10,7 @@
 
 **Prerequisite:** Passionate on programming, and having an attitude for learning to write idiomatic Go code without baggages.
 
-**Dates:** Saturday, 18-Jun-2022; Sunday, 19-Jun-2022; Saturday, 25-Jun-2022; Sunday, 26-Jun-2022;
+**Dates:** To be declared later 
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
