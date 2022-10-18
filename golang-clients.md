@@ -1,11 +1,12 @@
 
 ## Shiju Varghese's Corporate Training/Consulting Clients on Golang and Distributed Systems
 
+* ITC Infotech, Bengaluru
+* SAS, Pune
 * VMware, Bengaluru
 * Mindtree, Bengaluru 
 * Middleware Labs, Ahmedabad 
 * Betsol, Bengaluru 
-* SAS, Pune
 * Nokia, Bengaluru
 * Byju’s, Bengaluru
 * Tavant, Bengaluru
