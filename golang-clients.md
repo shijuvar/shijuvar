@@ -3,6 +3,7 @@
 
 * IBM, Bengaluru, and various office locations
 * ThoughtBox Online Services Pvt. Ltd, Kochi
+* PwC, Bengaluru
 * NetApp, Bengaluru
 * ITC Infotech, Bengaluru
 * SAS, Pune
