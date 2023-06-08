@@ -1,5 +1,7 @@
 # [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
 
+## Important Note: Because of a busy work schedule, public trainings are not available until August 2023
+
 -------------------------------
 
 ### Course: Professional Go
