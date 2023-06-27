@@ -1,6 +1,7 @@
 
 ## Shiju Varghese's Corporate Training/Consulting Clients on Golang and Distributed Systems
 
+* Vodafone, Pune
 * IBM, Bengaluru, and various office locations
 * ThoughtBox Online Services Pvt. Ltd, Kochi
 * PwC, Bengaluru
