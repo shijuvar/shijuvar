@@ -65,14 +65,13 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * A deep dive into cloud-native messaging systems: NATS and NATS JetStream 
 * Building Event-Driven Microservices with NATS
 * Building Microservices with Event Sourcing and CQRS
+* Building distributed applications using Service Weaver
 * Microservices development with Go kit
 * Distributed Tracing with OpenCensus and Zipkin
 * Encore – Backend Development Engine
 
   
   
-<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/tech_stack_go.png" align="center" height="50%" width="50%" ></a>
-
 
 ### Shiju Varghese
 --------------------------------------------------------
