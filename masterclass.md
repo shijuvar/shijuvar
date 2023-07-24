@@ -19,7 +19,8 @@ Provides training (both class room and online) and consulting on Go, Microservic
 -------------------------------
 
 **Course Duration:**  
-* Online Training: 20 hours (8 sessions of two and half hours) and assignments at offline 
+* Online Training for Public: 20 hours (8 sessions of two and half hours) and assignments at offline
+* Classroom/Online for Corporate Organizations: 4 Days
 
 **Prerequisite:**  None
 
@@ -46,7 +47,8 @@ Provides training (both class room and online) and consulting on Go, Microservic
 ### *Building highly scalable distributed systems in Go*
 --------------------------------------------------------
 **Course Duration:** 
-* Online Training: 20 hours (8 sessions of two and half hours) and assignments at offline 
+* Online Training for Public: 20 hours (8 sessions of two and half hours) and assignments at offline
+* Classroom/Online Training for Corporate Organizations: 4 Days
 
 **Prerequisite:**  Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles 
 
