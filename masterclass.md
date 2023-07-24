@@ -20,7 +20,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 
 **Course Duration:**  
 * Online Training for Public: 20 hours (8 sessions of two and half hours) and assignments at offline
-* Classroom/Online for Corporate Organizations: 4 Days
+* Classroom/Online Training for Corporate Organizations: 4 Days
 
 **Prerequisite:**  None
 
