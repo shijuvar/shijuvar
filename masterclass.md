@@ -69,7 +69,6 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Building Microservices with Event Sourcing and CQRS
 * Building distributed applications using Service Weaver
 * Microservices development with Go kit
-* Distributed Tracing with OpenCensus and Zipkin
 * Encore – Backend Development Engine
 
   
