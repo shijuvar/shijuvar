@@ -72,7 +72,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Encore – Backend Development Engine
 
   
-# Building Distributed Applications in Go with Service Wevaer
+# Building Distributed Applications in Go with Service Weaver
 ### *Building modern distributed applications in Go with Service Weaver*  
 --------------------------------------------------------
 **Course Duration:** 
