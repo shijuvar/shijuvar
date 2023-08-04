@@ -48,7 +48,7 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **Q: How to enroll in the Masterclass?**
 
-**A**: Send an email to shijuvar@gophermonk.in to confirm your slot for the Masterclass. Once your slot is confirmed, do make a payment of INR 1,000 to the UPI ID **shijuvar@axl** before starting the Masterclass (please don't make the payment more than one week early, a confirmation via email is fine). Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit it.
+**A**: Send an email to shijuvar@gophermonk.in to confirm your slot for the Masterclass. Once your slot is confirmed, do make a payment of INR 1,000 to a UPI ID (UPI ID will be shared via email) before starting the Masterclass (please don't make the payment more than one week early, a confirmation via email is fine). Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit it.
 
 **Q: What's the objective of the Masterclass Professional Go**
 
