@@ -72,10 +72,11 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Encore – Backend Development Engine
 
   
-# Building Distributed Applications in Go with Service Weaver
-### *Building modern distributed applications in Go with Service Weaver*  
+# Modern Application Development in Go using Service Weaver
+### *Monolith or Microservices, or Both: Building modern distributed applications in Go using Google Service Weaver*  
 --------------------------------------------------------
 **Course Duration:** 
+* Online Training for Public: 5 hours (2 sessions of two and half hours) 
 * Classroom/Online Training for Corporate Organizations: 1 Day
 
 **Prerequisite:**  Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles 
