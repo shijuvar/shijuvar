@@ -30,7 +30,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 *	Go programming language and its core fundamentals.
 * Package ecosystem and tooling.
 *	First-class functions.
-* Error handling
+* Error handling.
 *	Struct and Interface.
 * Writing testable and idiomatic Go code with interface, struct and packages (architecture guidance and best practices).
 *	Concurrency primitives: Goroutines and Channels.
@@ -38,9 +38,10 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Mutexes.
 * Go Modules.
 * HTTP programming: From basics to building production-ready apps.
-*	Testing Go applications: From basics to BDD-style testing and mocking.
-* Go 1.18 Generics
-* Building CLI applications
+*	Testing Go applications: From basics to TDD/BDD testing and mocking.
+* Generics.
+* Context package.
+* Structured Logging with slog
 
 
 # Distributed Systems and Microservices in Go
