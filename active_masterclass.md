@@ -1,9 +1,5 @@
 # [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
 
-## Important Note: Because of a busy work schedule, public trainings are not available until August 2023
-
--------------------------------
-
 ### Course: Professional Go
 -------------------------------
 **Course Duration:** 20 hours (8 sessions of two and half hours) and assignments at offline 
@@ -12,13 +8,26 @@
 
 **Prerequisite:** Passionate on programming, and having an attitude for learning to write idiomatic Go code without baggages.
 
-**Dates:** To be declared later 
+**Dates:** 16-Sep-2023, 17-Sep-2023, 23-Sep-2023 and 24-Sep-2023.
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
 **Mode:** Virtual Class Room
 
 **Fees:** INR 15,000
+
+**Summary of Course Contents:** 
+*	Go programming language core fundamentals.
+* Error handling
+*	Struct and Interface.
+* Writing testable and idiomatic Go code with interface, struct and packages (architecture guidance and best practices).
+*	Concurrency primitives: Goroutines and Channels.
+*	Advanced Concurrency patterns.
+* Mutexes.
+* Go Modules.
+* HTTP programming: From basics to building production-ready apps.
+* Generics
+* Context package
 
 -------------------------------
 ### Course: Distributed Systems and Microservices in Go
