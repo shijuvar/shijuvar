@@ -95,15 +95,15 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **A:** No. The Masterclass Distributed Systems and Microservices in Go is primarily focused on distributed systems programmig, but it does not focus on infrastructure concerns such as setting up and running services with larger clusters, and communicate between services using L7 proxies.     
 
-**Q: Will the Masterclass provide recorded videos?**
+**Q: Does the Masterclass provide recorded videos?**
 
 **A:** No. 
 
 **Q: If I miss a session due to an unexpected reason. What Can I do?**
 
-**A:** If you miss a session due to unexpected reasons such as internet connectivity issues or with any emergency situation, the trainer will provide guidance on it based on the time availability.
+**A:** If you miss a session due to unexpected reasons such as internet connectivity issues or with any emergency situation, the trainer will provide guidance on it based on his availability.
 
-**Q: Will the Trainer give technical guidance after completing the Masterclass?**
+**Q: Does the Trainer give technical guidance after completing the Masterclass?**
 
 **A:** The Trainer will give some technical guidance for your queries even after completing the training for some limited period of time, based on his availability.   
 
