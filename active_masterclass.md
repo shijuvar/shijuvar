@@ -99,7 +99,7 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **A:** No. 
 
-**Q: If I miss a session due to an unexpected reason. What Can I do?**
+**Q: If I miss a session due to an unexpected reason. What can I do?**
 
 **A:** If you miss a session due to unexpected reasons such as internet connectivity issues or with any emergency situation, the trainer will provide guidance on it based on his availability.
 
