@@ -18,7 +18,7 @@
 
 **Summary of Course Contents:** 
 *	Go programming language core fundamentals.
-* Error handling
+* Error handling.
 *	Struct and Interface.
 * Writing testable and idiomatic Go code with interface, struct and packages (architecture guidance and best practices).
 *	Concurrency primitives: Goroutines and Channels.
@@ -26,8 +26,8 @@
 * Mutexes.
 * Go Modules.
 * HTTP programming: From basics to building production-ready apps.
-* Generics
-* Context package
+* Generics.
+* Context package.
 
 -------------------------------
 ### Course: Distributed Systems and Microservices in Go
@@ -57,7 +57,7 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **Q: How to enroll in the Masterclass?**
 
-**A**: Send an email to shijuvar@gophermonk.in to confirm your slot for the Masterclass. Once your slot is confirmed, do make a payment of INR 1,000 to a UPI ID (UPI ID will be shared via email) before starting the Masterclass (please don't make the payment more than one week early, a confirmation via email is fine). Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit it.
+**A**: Send an email to shijuvar@gophermonk.in to confirm your slot for the Masterclass. Once your slot is confirmed, do make a payment of INR 1,000 to a UPI ID (UPI ID will be shared via email) just before starting the Masterclass (please don't make the payment more than three days early, a confirmation via email is fine). Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit it.
 
 **Q: What's the objective of the Masterclass Professional Go**
 
