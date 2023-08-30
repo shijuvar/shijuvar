@@ -63,6 +63,10 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **A:** The objective of the Masterclass **Professional Go** is to learn Go programming language in a holistic manner by understanding the Go philosophy. The Masterclass will give you great insight about writing idiomatic Go code based on SOLID principles and Clean architecture. This may transform your entire career.  You can dive into production-ready REST APIs after attending this Masterclass. But, if your idea of learning Go is just about learning some Go syntax, and looking equivalent features in Go for the features, which you have learned in other programming languages, then the Masterclass will extremely disappoint you. 
 
+**Q: Does a certificate provide after completing the Masterclass?**
+
+**A:** No. The objective of the Masterclass is to provide a deep insight on Go programming language. 
+
 **Q: I would like to join the Masterclass Professional Go, with a lot of baggages from my previous background, and thus I would like to learn Go by comparing with my previous experiences, which I have had with different programming languages. Can I join in the Masterclass?**
 
 **A:** No. You can't join in the Masterclass. Please read my article [The Java Baggage: Biggest Bottleneck to Adopt Go in Enterprises](https://medium.com/@shijuvar/the-java-baggage-biggest-bottleneck-to-adopt-go-in-enterprises-2a37c80d72d9).
