@@ -28,6 +28,8 @@
 * HTTP programming: From basics to building production-ready apps.
 * Generics.
 * Context package.
+* Structured Logging with slog.
+* An introduction to Google Service Weaver
 
 -------------------------------
 ### Course: Distributed Systems and Microservices in Go
