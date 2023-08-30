@@ -81,7 +81,7 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **Q: What's the objective of the Masterclass Distributed Systems and Microservices in Go**
 
-**A:** The objective of the Masterclass **Distributed Systems and Microservices in Go** is to provide a great insight on distributed systems architectures, which include Microservices based architectures, Event-Driven architectures with distributed messaging and streaming. The Masterclass will also provide guidance extensively on NATS ecosystem, gRPC, and Go kit based development for distributed systems programming and Clean architecture. Go kit based development will improve the quality of the application architecture regardless of whether it's distributed systems or monolithic systems. 
+**A:** The objective of the Masterclass **Distributed Systems and Microservices in Go** is to provide a great insight on distributed systems architectures, which include Microservices based architectures, Event-Driven architectures with distributed messaging and streaming. The Masterclass will also provide guidance extensively on NATS ecosystem, gRPC, and Go kit based development for distributed systems programming and Google Service Weaver. Google Service Weaver lets you write your Go code as a modular monolith, which can be deployed as either monolith or Microservices. 
 
 **Q: My idea of Microservices is all about containerization, or just about building REST APIs, or just about using frameworks like SpringBoot, or about running applications with Serverless (a fancy name, IMO). Can I join in the Masterclass Distributed Systems and Microservices in Go**
 
