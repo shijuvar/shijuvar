@@ -29,7 +29,7 @@
 * Generics.
 * Context package.
 * Structured Logging with slog.
-* An introduction to Google Service Weaver
+* Building CLI applications.
 
 -------------------------------
 ### Course: Distributed Systems and Microservices in Go
