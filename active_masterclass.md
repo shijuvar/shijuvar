@@ -32,33 +32,6 @@
 * Building CLI applications.
 
 -------------------------------
-### Course: Modern Application Development in Go with Service Weaver
--------------------------------
-**Course Duration:** 5 hours (2 sessions of two and half hours) 
-
-**Level:** Advanced
-
-**Prerequisite:** Completion of "Professional Go" course, or Go developers with decent knowledge in the language 
-
-**Dates:** 30-Sep-2023
-
-**Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM 
-
-**Mode:** Virtual Class Room
-
-**Fees:** INR 3,000
-
-**Summary of Course Contents:**  
-* Monolith or Microservices, or Both: An introduction to Service Weaver
-* Writing Service Weaver Components
-* Making reference to Components
-* Working with Configurations
-* Routing in Service Weaver
-* Running Service Weaver applications
-* Integrating with observability
-* Deploying Service Weaver applications
-
--------------------------------
 
 ## FAQ
 **Q: What's the objective of the Masterclass?**
