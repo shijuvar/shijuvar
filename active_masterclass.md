@@ -32,21 +32,31 @@
 * Building CLI applications.
 
 -------------------------------
-### Course: Distributed Systems and Microservices in Go
+### Course: Modern Application Development in Go with Service Weaver
 -------------------------------
-**Course Duration:** 20 hours (8 sessions of two and half hours) and assignments at offline 
+**Course Duration:** 5 hours (2 sessions of two and half hours) 
 
 **Level:** Advanced
 
 **Prerequisite:** Completion of "Professional Go" course, or Go developers with decent knowledge in the language 
 
-**Dates:** To be declared later 
+**Dates:** 30-Sep-2023
 
-**Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
+**Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM 
 
 **Mode:** Virtual Class Room
 
-**Fees:** INR 15,000
+**Fees:** INR 3,000
+
+**Summary of Course Contents:**  
+* Monolith or Microservices, or Both: An introduction to Service Weaver
+* Writing Service Weaver Components
+* Making reference to Components
+* Working with Configurations
+* Routing in Service Weaver
+* Running Service Weaver applications
+* Integrating with observability
+* Deploying Service Weaver applications
 
 -------------------------------
 
@@ -59,7 +69,7 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **Q: How to enroll in the Masterclass?**
 
-**A**: Send an email to shijuvar@gophermonk.in to confirm your slot for the Masterclass. Once your slot is confirmed, do make a payment of INR 1,000 to a UPI ID (UPI ID will be shared via email) just before starting the Masterclass (please don't make the payment more than three days early, a confirmation via email is fine). Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit it.
+**A**: Send an email to shijuvar@gophermonk.in to confirm your slot for the Masterclass. Once your slot is confirmed, do make a payment of INR 1,000 to a UPI ID (UPI ID will be shared via email) just before starting the Masterclass (please don't make the payment more than three days early, a confirmation via email is fine). Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit it. Please note that Masterclasses are resutricted to Indian developer community to keep compatibility among the audience.  
 
 **Q: What's the objective of the Masterclass Professional Go**
 
