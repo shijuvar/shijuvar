@@ -1,4 +1,5 @@
 # [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
+-------------------------------
 
 ### Course: Professional Go
 -------------------------------
@@ -16,22 +17,23 @@
 
 **Fees:** INR 15,000
 
-**Summary of Course Contents:** 
-*	Go programming language core fundamentals.
-* Error handling.
-*	Struct and Interface.
-* Writing testable and idiomatic Go code with interface, struct and packages (architecture guidance and best practices).
-*	Concurrency primitives: Goroutines and Channels.
-*	Advanced Concurrency patterns.
-* Mutexes.
-* Go Modules.
-* HTTP programming: From basics to building production-ready apps.
-* Generics.
-* Context package.
-* Structured Logging with slog.
-* Building CLI applications.
-
 -------------------------------
+
+### Course: Distributed Systems and Microservices in Go
+-------------------------------
+**Course Duration:** 20 hours (8 sessions of two and half hours) and assignments at offline 
+
+**Level:** Advanced
+
+**Prerequisite:** Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles.
+
+**Dates:** To be declared
+
+**Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
+
+**Mode:** Virtual Class Room
+
+**Fees:** INR 15,000
 
 ## FAQ
 **Q: What's the objective of the Masterclass?**
@@ -42,7 +44,7 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **Q: How to enroll in the Masterclass?**
 
-**A**: Send an email to shijuvar@gophermonk.in to confirm your slot for the Masterclass. Once your slot is confirmed, do make a payment of INR 1,000 to a UPI ID (UPI ID will be shared via email) just before starting the Masterclass (please don't make the payment more than three days early, a confirmation via email is fine). Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit it. Please note that Masterclasses are resutricted to Indian developer community to keep compatibility among the audience.  
+**A**: Send an email to shijuvar@gophermonk.in to confirm your slot for the Masterclass. Once your slot is confirmed, do make a payment of INR 1,000 to a UPI ID (UPI ID will be shared via email) just before starting the Masterclass (please don't make the payment more than three days early, a confirmation via email is fine). Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit it. <b>Please note that Masterclasses are restricted to Indian developer community to keep compatibility among the audience</b>.  
 
 **Q: What's the objective of the Masterclass Professional Go**
 
@@ -90,6 +92,6 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **Q: Does the Trainer give technical guidance after completing the Masterclass?**
 
-**A:** The Trainer will give some technical guidance for your queries even after completing the training for some limited period of time, based on his availability.   
+**A:** The Trainer will give some technical guidance for your queries even after completing the training for some limited period of time, based on his availability. The Trainer will also review source code of the assignments and give feedbacks on code and architecture.    
 
 
