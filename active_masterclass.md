@@ -9,7 +9,7 @@
 
 **Prerequisite:** Passionate on programming, and having an attitude for learning to write idiomatic Go code without baggages.
 
-**Dates:** 16-Sep-2023, 17-Sep-2023, 23-Sep-2023 and 24-Sep-2023.
+**Dates:** Saturday, 16-Sep-2023; Sunday, 17-Sep-2023; Saturday, 23-Sep-2023; Sunday, 24-Sep-2023.
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
