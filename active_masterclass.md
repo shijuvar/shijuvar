@@ -52,7 +52,7 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **Q: Does a certificate provide after completing the Masterclass?**
 
-**A:** No. The objective of the Masterclass is to provide a deep insight on Go programming language, but not about providing certificates. 
+**A:** No. The objective of the Masterclass is to provide a deep insight on Go programming language, but not about providing certificates. The trainer don't even believe in professional certifications, but emphasize in in-depth knowledge and the capability of writing idiomatic code that can only be applied in real-world projects.
 
 **Q: I would like to join the Masterclass Professional Go, with a lot of baggages from my previous background, and thus I would like to learn Go by comparing with my previous experiences, which I have had with different programming languages. Can I join in the Masterclass?**
 
