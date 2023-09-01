@@ -19,6 +19,5 @@ Beyond technology, Shiju Varghese is a [mind-body healing practitioner](https://
 ### Consulting and Training on Go and Distributed Systems
 Contact at shijuvar@gophermonk.in, for training and consulting on the Go Programming Language and Distributed Systems.
 
-<b>Technologies:</b> Go, Google Cloud, gRPC, NATS, NATS Streaming, NATS JetStream, CockroachDB, Go kit, Microservices, Event-Driven Streaming Architecture, DDD, Event Sourcing, CQRS.
+<b>Technologies:</b> Go, Google Cloud, gRPC, NATS, NATS JetStream, CockroachDB, Go kit, Google Service Weaver, Microservices, Event-Driven Streaming Architecture, DDD, Event Sourcing, CQRS.
 
-<a href="(https://medium.com/@shijuvar"><img src="https://github.com/shijuvar/shijuvar/blob/master/img/tech_stack_go.png" align="left" height="150" width="450" ></a>
