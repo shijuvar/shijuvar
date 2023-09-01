@@ -28,20 +28,20 @@ Provides training (both class room and online) and consulting on Go, Microservic
 
 **Summary of Course Contents:** 
 *	Go programming language and its core fundamentals.
-* Package ecosystem and tooling.
 *	First-class functions.
+* Package ecosystem and Go Modules.
 * Error handling.
 *	Struct and Interface.
 * Writing testable and idiomatic Go code with interface, struct and packages (architecture guidance and best practices).
 *	Concurrency primitives: Goroutines and Channels.
 *	Advanced Concurrency patterns.
 * Mutexes.
-* Go Modules.
 * HTTP programming: From basics to building production-ready apps.
-*	Testing Go applications: From basics to TDD/BDD testing and mocking.
+*	Testing Go applications.
 * Generics.
 * Context package.
-* Structured Logging with slog
+* Structured Logging with slog.
+* Introduction to Service Weaver.
 
 
 # Distributed Systems and Microservices in Go
