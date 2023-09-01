@@ -16,6 +16,7 @@
 * [A Primer to Containerization & Microservices](https://www.slideshare.net/shijucv/a-primer-to-containerization-microservices) at Bangalore on April 26, 2016
 
 ### Various Conferences
+* [Building Modern Distributed applications in Go with Service Weaver](https://www.youtube.com/watch?v=ESPZYijB_rQ&t=776s) organized by National Payments Corporation of India (NPCI) at Hyderabad on August 05, 2023
 * Microservices Architecture, a virtual conference organized by Prathidhwani Technopark via Zoom on May 24, 2020 
 * Building Microservices with gRPC and NATS, a workshop organized by Prathidhwani Technopark at Technopark Kerala on July 21, 2018 
 * [Cloud Native Distributed Systems Architectures](https://www.slideshare.net/shijucv/cloud-native-distributed-systems-architectures) at Nasscom Kochi on April 22, 2018
