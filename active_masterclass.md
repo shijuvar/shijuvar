@@ -44,7 +44,8 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **Q: How to enroll in the Masterclass?**
 
-**A**: Send an email to shijuvar@gophermonk.in to confirm your slot for the Masterclass. Once your slot is confirmed, do make a payment of INR 1,000 to a UPI ID (UPI ID will be shared via email) just before starting the Masterclass (please don't make the payment more than three days early, a confirmation via email is fine). Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit it. <b>Please note that Masterclasses are restricted to Indian developer community to keep compatibility among the audience</b>.  
+**A**: Send an email to shijuvar@gophermonk.in to confirm your slot for the Masterclass. Once your slot is confirmed, do make a payment of INR 1,000 to a UPI ID (UPI ID will be shared via email) just before starting the Masterclass. Please don't make the payment more than three days early, a confirmation via email is fine. The conference details in Google Meet will be shared before starting the sessions. Once the Masterclass is started, and then, if you're comfortable with that, you can make the remaining payment and continue with the Masterclass. If you're not comfortable with Masterclass after attending the initial session, you can quit it. 
+<b>Please note that Masterclasses are restricted to Indian developer community to keep compatibility among the audience</b>.  
 
 **Q: What's the objective of the Masterclass Professional Go**
 
