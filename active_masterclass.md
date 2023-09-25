@@ -9,7 +9,7 @@
 
 **Prerequisite:** Passionate on programming, and minimum one year experience in programming 
 
-**Dates:** Saturday, 23-Sep-2023; Sunday, 24-Sep-2023; Saturday, 30-Sep-2023; Sunday, 01-Oct-2023.
+**Dates:** 
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
@@ -27,7 +27,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles.
 
-**Dates:** Saturday, 21-Oct-2023; Sunday, 22-Oct-2023; Saturday, 28-Oct-2023; Sunday, 29-Oct-2023.
+**Dates:** 
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
