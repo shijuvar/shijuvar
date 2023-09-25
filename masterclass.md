@@ -11,18 +11,15 @@ Provides training (both class room and online) and consulting on Go, Microservic
 
 **[List of clients of Shiju Varghese's Masterclass on Go and Distributed Systems](https://github.com/shijuvar/shijuvar/blob/master/golang-clients.md)**
 
-## [Dates and Time, Fee, Enrolment and FAQ for the Masterclass for Public](https://github.com/shijuvar/shijuvar/blob/master/active_masterclass.md)
-
 # Courses
 # Professional Go  
 ### *A deep dive into Go programming language for building scalable applications*
 -------------------------------
 
 **Course Duration:**  
-* Online Training for Public: 20 hours (8 sessions of two and half hours) and assignments at offline
 * Classroom/Online Training for Corporate Organizations: 4 Days
 
-**Prerequisite:**  None
+**Prerequisite:**  Basic foundation on programming with any programming language
 
 **Level:** Beginner to Advanced 
 
@@ -48,7 +45,6 @@ Provides training (both class room and online) and consulting on Go, Microservic
 ### *Building highly scalable distributed systems in Go*
 --------------------------------------------------------
 **Course Duration:** 
-* Online Training for Public: 20 hours (8 sessions of two and half hours) and assignments at offline
 * Classroom/Online Training for Corporate Organizations: 4 Days
 
 **Prerequisite:**  Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles 
@@ -77,7 +73,6 @@ Provides training (both class room and online) and consulting on Go, Microservic
 ### *Monolith or Microservices, or Both: Building modern distributed applications in Go using Google Service Weaver*  
 --------------------------------------------------------
 **Course Duration:** 
-* Online Training for Public: 5 hours (2 sessions of two and half hours) 
 * Classroom/Online Training for Corporate Organizations: 1 Day
 
 **Prerequisite:**  Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles 
