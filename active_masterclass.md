@@ -7,7 +7,7 @@
 
 **Level:** Beginner to Advanced
 
-**Prerequisite:** Passionate on programming, and having an attitude for learning to write idiomatic Go code without baggages.
+**Prerequisite:** Passionate on programming, and minimum one year experience in programming 
 
 **Dates:** Saturday, 23-Sep-2023; Sunday, 24-Sep-2023; Saturday, 30-Sep-2023; Sunday, 01-Oct-2023.
 
