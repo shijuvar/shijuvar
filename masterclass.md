@@ -38,8 +38,6 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Generics.
 * Context package.
 * Structured Logging with slog.
-* Introduction to Google Service Weaver.
-
 
 # Distributed Systems and Microservices in Go
 ### *Building highly scalable distributed systems in Go*
