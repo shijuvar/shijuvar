@@ -1,4 +1,4 @@
-## Shiju Varghese: Nervous System Healing and EFT Practitioner 
+## Shiju Varghese: Nervous System Coach and EFT Practitioner 
 
 Shiju Varghese is a Nervous System Health Coach for regulating the Autonomic Nervous System, Energy Medicine Healing practitioner, Emotional Freedom Techniques (EFT) Tapping practitioner, and practitioner and teacher of Mindfulness and Vipassanā Meditation. He provides Brain-Mind-Body coaching and nervous system level healing to resolve stress, anxiety and trauma. He believes that the root cause of most of the chronic diseases is the chronic and traumatic stress that leads to dysregulation in the Nervous System and Gut Microbiome. Thus, by healing the nervous system from trauma which includes childhood trauma, we can achieve self-healing, greater health, and vitality, which can also achieve Gut health by combining with good diet.
 
