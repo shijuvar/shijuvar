@@ -89,7 +89,7 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **Q: If I miss a session due to an unexpected reason. What can I do?**
 
-**A:** If you miss a session due to unexpected reasons such as internet connectivity issues or with any emergency situation, the trainer will provide guidance on it based on his availability.
+**A:** If you miss a session due to unexpected reasons such as internet connectivity issues or with any emergency situation, the trainer will provide guidance and One one One session on it based on his availability.
 
 **Q: Does the Trainer give technical guidance after completing the Masterclass?**
 
