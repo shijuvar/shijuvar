@@ -1,6 +1,6 @@
+
 # [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
 -------------------------------
-
 ### Course: Professional Go
 -------------------------------
 **Course Duration:** 20 hours (8 sessions of two and half hours) and assignments at offline 
@@ -19,7 +19,7 @@
 
 -------------------------------
 
-### Course: Distributed Systems and Microservices in Go
+### Course: Distributed Systems Programming in Go
 -------------------------------
 **Course Duration:** 20 hours (8 sessions of two and half hours) and assignments at offline 
 
@@ -27,7 +27,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles.
 
-**Dates:** 
+**Dates:** Saturday, 28-Oct-2023; Sunday, 29-Oct-2023; Saturday, 04-Nov-2023; Sunday, 05-Nov-2023;
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
@@ -67,21 +67,21 @@ The Trainer is not a  conventional trainer, but he is a senior Architect who has
 
 **A:** If you're passionate on programming, you can join in the Masterclass regardless of your experience. In my mentoring experience, many fresher engineers learned and performed better than many senior people because they don't have any baggages in programming, and thus they are ready to learn when they get right mentoring. 
 
-**Q: What's the objective of the Masterclass Distributed Systems and Microservices in Go**
+**Q: What's the objective of the Masterclass Distributed Systems Programming in Go**
 
-**A:** The objective of the Masterclass **Distributed Systems and Microservices in Go** is to provide a great insight on distributed systems architectures, which include Microservices based architectures, Event-Driven architectures with distributed messaging and streaming. The Masterclass will also provide guidance extensively on NATS ecosystem, gRPC, and Go kit based development for distributed systems programming and Google Service Weaver. Google Service Weaver lets you write your Go code as a modular monolith, which can be deployed as either monolith or Microservices. 
+**A:** The objective of the Masterclass **Distributed Systems Programming in Go** is to provide a great insight on distributed systems architectures, which include Microservices based architectures, Event-Driven architectures with distributed messaging and streaming. The Masterclass will also provide guidance extensively on NATS ecosystem, gRPC, and Go kit based development for distributed systems programming and Google Service Weaver. Google Service Weaver lets you write your Go code as a modular monolith, which can be deployed as either monolith or Microservices. 
 
-**Q: My idea of Microservices is all about containerization, or just about building REST APIs, or just about using frameworks like SpringBoot, or about running applications with Serverless (a fancy name, IMO). Can I join in the Masterclass Distributed Systems and Microservices in Go**
+**Q: My idea of Microservices is all about containerization, or just about building REST APIs, or just about using frameworks like SpringBoot, or about running applications with Serverless (a fancy name, IMO). Can I join in the Masterclass Distributed Systems Programming in Go**
 
 **A:** No. You can't join in the Masterclass. This Masterclass is conceived Microservices as a distributed systems architecture based on the idea of functional decomposition, which starts from the principles of Domain-Driven Design (DDD).
 
-**Q: Can I become an Architect by simply attending the Masterclass Distributed Systems and Microservices in Go**
+**Q: Can I become an Architect by simply attending the Distributed Systems Programming in Go**
 
-**A:** No. You can't. You can become a good architect only with several years of real-world experience on architecture. A good architect will never become a poster child of intellectual thoughts and named patterns, instead of it, he or she works on context-driven architecture based on the context of the systems (The biggest problem of our industry is architects are becoming poster childs). You can become a great Go programmer by simply attending the Masterclass Professional Go, but you can't become an architect by simply attending the Masterclass Distributed Systems and Microservices in Go. You may get solid understanding on distributed systems architectures from a pragmatic viewpoint with the Masterclass Distributed Systems and Microservices in Go.    
+**A:** No. You can't. You can become a good architect only with several years of real-world experience on architecture. A good architect will never become a poster child of intellectual thoughts and named patterns, instead of it, he or she works on context-driven architecture based on the context of the systems (The biggest problem of our industry is architects are becoming poster childs). You can become a great Go programmer by simply attending the Masterclass Professional Go, but you can't become an architect by simply attending the Masterclass Distributed Systems Programming in Go. You may get solid understanding on distributed systems architectures from a pragmatic viewpoint with the Masterclass Distributed Systems Programming in Goo.    
 
-**Q: Will the Masterclass Distributed Systems and Microservices in Go demonstrate infrastructure things like load balancing services, load balancing gRPC, setting up API Gateway, setting up Kubernetes Sidecar container and L7 proxy, etc?**
+**Q: Will the Masterclass Distributed Systems Programming in Go demonstrate infrastructure things like load balancing services, load balancing gRPC, setting up API Gateway, setting up Kubernetes Sidecar container and L7 proxy, etc?**
 
-**A:** No. The Masterclass Distributed Systems and Microservices in Go is primarily focused on distributed systems programmig, but it does not focus on infrastructure concerns such as setting up and running services with larger clusters, and communicate between services using L7 proxies.     
+**A:** No. The Masterclass Distributed Systems Programming in Go is primarily focused on distributed systems programmig, but it does not focus on infrastructure concerns such as setting up and running services with larger clusters, and communicate between services using L7 proxies.     
 
 **Q: Does the Masterclass provide recorded videos?**
 
