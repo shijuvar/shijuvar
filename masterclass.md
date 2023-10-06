@@ -39,8 +39,8 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Context package.
 * Structured Logging with slog.
 
-# Distributed Systems and Microservices in Go
-### *Building highly scalable distributed systems in Go*
+# Distributed Systems Programming in Go
+### *Building highly scalable distributed systems and microservices in Go*
 --------------------------------------------------------
 **Course Duration:** 
 * Classroom/Online Training for Corporate Organizations: 4 Days
@@ -52,19 +52,16 @@ Provides training (both class room and online) and consulting on Go, Microservic
 **Level:** Advanced 
 
 **Summary of Course Contents:**  
-* An introduction to cloud-native distributed systems architecture patterns
-* Introduction to Microservices Architecture
+* An overview of Microservices architecture
 * Decomposition Patterns for Microservices 
 * Domain-Driven Design (DDD)
 * A deep dive into gRPC and Protocol Buffers
 * Working with CockroachDB - A distributed, fault-tolerant database 
-* Managing Transactions in Microservices
-* A deep dive into cloud-native messaging systems: NATS and NATS JetStream 
-* Building Event-Driven Microservices with NATS
-* Building Microservices with Event Sourcing and CQRS
-* Building distributed applications using Service Weaver
+* A deep dive into distributed messaging/streaming systems: NATS and NATS JetStream 
+* Building event-driven streaming systems with NATS JetStream 
 * Microservices development with Go kit
-* Encore – Backend Development Engine
+* Building distributed applications using Google Service Weaver
+
 
   
 # Modern Application Development in Go with Service Weaver
