@@ -27,7 +27,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles.
 
-**Dates:** TBD
+**Dates:** Saturday, 18-Nov-23; Sunday, 19-Nov-23; Saturday, 25-Nov-23; Sunday, 26-Nov-23;
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
