@@ -11,6 +11,8 @@ Provides training (both class room and online) and consulting on Go, Microservic
 
 **[List of clients of Shiju Varghese's Masterclass on Go and Distributed Systems](https://github.com/shijuvar/shijuvar/blob/master/golang-clients.md)**
 
+## **[Date and Time, Fees and FAQ of Public Masterclass](https://github.com/shijuvar/shijuvar/blob/master/active_masterclass.md)**
+
 # Courses
 # Professional Go  
 ### *A deep dive into Go programming language for building scalable applications*
