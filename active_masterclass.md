@@ -25,7 +25,7 @@
 
 **Level:** Advanced
 
-**Prerequisite:** Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles.
+**Prerequisite:** Completion of "Professional Go" course or good knowledge in the Go programming language.
 
 **Dates:** Saturday, 18-Nov-23; Sunday, 19-Nov-23; Saturday, 25-Nov-23; Sunday, 26-Nov-23;
 
