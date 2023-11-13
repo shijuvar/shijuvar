@@ -9,7 +9,7 @@
 
 **Prerequisite:** Passionate on programming, and minimum one year experience in programming 
 
-**Dates:** 
+**Dates:** Saturday, 02-Dec-23; Sunday, 03-Dec-23; Saturday, 09-Dec-23; Sunday, 10-Dec-23;
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
