@@ -67,7 +67,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 
 
   
-# Building Distributed Application in Go with Service Weaver
+# Building Distributed Applications in Go with Service Weaver
 ### *Monolith or Microservices, or Both: Building modern distributed applications in Go using Google Service Weaver*  
 --------------------------------------------------------
 **Course Duration:** 
