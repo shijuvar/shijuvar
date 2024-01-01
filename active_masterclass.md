@@ -9,7 +9,7 @@
 
 **Prerequisite:** Passionate on programming, and minimum one year experience in programming 
 
-**Dates:** Januray 2024 (Dates will be updated later on)
+**Dates:** Saturday, 27-Jan-2024; Sunday, 28-Jan-2024; Saturday, 03-Feb-2024; Sunday, 04-Feb-2024;
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
@@ -27,7 +27,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course or good knowledge in the Go programming language.
 
-**Dates:** Saturday, 18-Nov-23; Sunday, 19-Nov-23; Saturday, 25-Nov-23; Sunday, 26-Nov-23;
+**Dates:** Saturday, 17-Feb-2024; Sunday, 18-Feb-2024; Saturday, 24-Feb-2024; Sunday, 25-Feb-2024;
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
