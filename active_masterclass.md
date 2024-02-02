@@ -27,7 +27,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course or good knowledge in the Go programming language.
 
-**Dates:** Saturday, 17-Feb-2024; Sunday, 18-Feb-2024; Saturday, 24-Feb-2024; Sunday, 25-Feb-2024;
+**Dates:** Saturday, 02-Mar-2024; Sunday, 03-Mar-2024; Saturday, 09-Mar-2024; Sunday, 10-Mar-2024;
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
