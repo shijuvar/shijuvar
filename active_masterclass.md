@@ -1,4 +1,4 @@
-
+## Note: Public trainings are stopped until May 2024.
 # [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
 -------------------------------
 ### Course: Professional Go
@@ -9,7 +9,7 @@
 
 **Prerequisite:** Passionate on programming, and minimum one year experience in programming 
 
-**Dates:** Saturday, 27-Jan-2024; Sunday, 28-Jan-2024; Saturday, 03-Feb-2024; Sunday, 04-Feb-2024;
+**Dates:** 
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
@@ -27,7 +27,7 @@
 
 **Prerequisite:** Completion of "Professional Go" course or good knowledge in the Go programming language.
 
-**Dates:** Saturday, 09-Mar-2024; Sunday, 10-Mar-2024; Saturday, 16-Mar-2024; Sunday, 17-Mar-2024;
+**Dates:** 
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
