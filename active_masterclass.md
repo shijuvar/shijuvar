@@ -25,9 +25,9 @@
 
 **Level:** Advanced
 
-**Prerequisite:** Completion of "Professional Go" course or good knowledge in the Go programming language.
+**Prerequisite:** Completion of "Professional Go" course, or having good knowledge in the Go programming language.
 
-**Dates:** 
+**Dates:** Saturday, 31-Aug-2024; Sunday, 01-Sep-2024; Saturday, 07-Sep-2024; Sunday, 08-Sep-2024;
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
