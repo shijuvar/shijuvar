@@ -32,14 +32,11 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Error handling.
 *	Struct and Interface.
 * Writing testable and idiomatic Go code with interface, struct and packages (architecture guidance and best practices).
-*	Concurrency primitives: Goroutines and Channels.
-*	Advanced Concurrency patterns.
+*	Concurrency programming: Goroutines and Channels.
 * Mutexes.
-* HTTP programming: From basics to building production-ready apps.
+* HTTP programming: From basics to building RESTful APIs.
 *	Testing Go applications.
-* Generics.
 * Context package.
-* Structured Logging with slog.
 
 # Distributed Systems Programming in Go
 ### *Building highly scalable distributed systems and microservices in Go*
