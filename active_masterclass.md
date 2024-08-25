@@ -1,5 +1,5 @@
 # [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
-## Note: Public trainings are stopped for some period.
+## Note: Public trainings on Go have stopped for some period.
 -------------------------------
 ### Course: Professional Go
 -------------------------------
