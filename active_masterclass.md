@@ -1,4 +1,5 @@
 # [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
+## Note: Public trainings are stopped for some period.
 -------------------------------
 ### Course: Professional Go
 -------------------------------
@@ -28,7 +29,7 @@
 
 **Dates:** 
 
-**Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
+**Time (In IST):** 
 
 **Mode:** Virtual Class Room
 
