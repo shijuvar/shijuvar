@@ -1,15 +1,14 @@
 # [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
-## Note: Public trainings on Go have stopped for some period.
 -------------------------------
 ### Course: Professional Go
 -------------------------------
-**Course Duration:** 20 hours (8 sessions of two and half hours) and assignments at offline 
+**Course Duration:** 20 hours (8 sessions of two and half hours), and assignments at offline (Code review will be provided offline with technical assisstance for one week after the training) 
 
 **Level:** Beginner to Advanced
 
 **Prerequisite:** Passionate on programming, and minimum one year experience in programming 
 
-**Dates:** Saturday, 24-Aug-2024; Sunday, 25-Aug-2024; Saturday, 31-Aug-2024; Sunday, 01-Sep-2024;
+**Dates:** Saturday, 05-Oct-2024; Sunday, 06-Oct-2024; Saturday, 12-Oct-2024; Sunday, 13-Oct-2024;
 
 **Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
@@ -21,15 +20,15 @@
 
 ### Course: Distributed Systems Programming in Go
 -------------------------------
-**Course Duration:** 20 hours (8 sessions of two and half hours) and assignments at offline 
+**Course Duration:** 20 hours (8 sessions of two and half hours) and assignments at offline, and technical assistance will be provided for one week after the training) 
 
 **Level:** Advanced
 
 **Prerequisite:** Completion of "Professional Go" course, or having good knowledge in the Go programming language.
 
-**Dates:** 
+**Dates:** Saturday, 19-Oct-2024; Sunday, 20-Oct-2024; Saturday, 26-Oct-2024; Sunday, 27-Oct-2024;
 
-**Time (In IST):** 
+**Time (In IST):** 09:00 AM - 11:45 AM, 02:00 PM - 04:45 PM (Minimum 5 hours per day)
 
 **Mode:** Virtual Class Room
 
