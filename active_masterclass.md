@@ -1,4 +1,6 @@
 # [Masterclass](https://github.com/shijuvar/shijuvar/blob/master/masterclass.md) for Public  
+
+Public Training has stopped until Dec 2024
 -------------------------------
 ### Course: Professional Go
 -------------------------------
