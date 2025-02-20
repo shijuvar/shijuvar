@@ -1,6 +1,7 @@
 
 ## Shiju Varghese's Corporate Training/Consulting Clients on Golang and Distributed Systems
 
+* Kyndryl, Bengaluru
 * IBM, Bengaluru, and various office locations
 * Ericsson, Bengaluru
 * Marketfeed, Bengaluru
