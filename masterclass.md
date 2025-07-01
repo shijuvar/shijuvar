@@ -59,7 +59,6 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * A deep dive into distributed messaging/streaming systems: NATS and NATS JetStream 
 * Building event-driven streaming systems with NATS JetStream 
 * Microservices development with Go kit
-* Modular Monolith architecture
 
 ### Shiju Varghese
 --------------------------------------------------------
