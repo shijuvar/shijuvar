@@ -60,32 +60,6 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Building event-driven streaming systems with NATS JetStream 
 * Microservices development with Go kit
 * Modular Monolith architecture
-* Building distributed applications using Google Service Weaver
-
-
-  
-# Building Distributed Applications in Go with Service Weaver
-### *Monolith or Microservices, or Both: Building modern distributed applications in Go using Google Service Weaver*  
---------------------------------------------------------
-**Course Duration:** 
-* Classroom/Online Training for Corporate Organizations: 1 Day
-
-**Prerequisite:**  Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles 
-
-**Target Audience:** Developers and Architects
-
-**Level:** Advanced 
-
-**Summary of Course Contents:**  
-* Monolith or Microservices, or Both: An introduction to Service Weaver
-* Writing Service Weaver Components
-* Making reference to Components
-* Working with Configurations
-* Routing in Service Weaver
-* Running Service Weaver applications
-* Integrating with observability
-* Deploying Service Weaver applications
-
 
 ### Shiju Varghese
 --------------------------------------------------------
