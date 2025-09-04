@@ -1,5 +1,3 @@
-## Shiju Varghese: Meditation Teacher & Psychospiritual Coach 
+## Shiju Varghese: Psychospiritual Teacher 
 
-Shiju Varghese is a trauma-informed, polyvagal-informed nervous system expert and a spiritual therapist, who synthesizes trauma healing therapies such as Emotional Freedom Techniques (EFT) and Internal Family Systems (IFS) with the spiritual wisdom of non-dual esoteric teachings. He provides coaching on regulating autonomic nervous system (ANS) along with the "Forgiveness" practice as taught by "A Course In Miracles", to heal stress, anxiety, trauma and chronic pain. His primary interest lies in Epigenetics, Neuroplasticity, Psychoneuroimmunology, Polyvagal Theory, Quantum Physics, Energy Medicine and Consciousness.
-
-Shiju is a spiritual seeker of esoteric wisdom and non-dualistic mysticism, with an emphasis on "A Course In Miracles" and Vipassanā Meditation. He provides spiritual mentoring on Metaphysics, A Course In Miracles, and Buddhist teachings in the Theravada tradition.
+Shiju Varghese is a psychospiritual teacher who embodies a spiritual path rooted in the teachings of "A Course in Miracles" (ACIM) and the meditative wisdom of Satipaṭṭhāna Vipassanā meditation. He synthesizes trauma healing therapies such as Emotional Freedom Techniques (EFT) and the science of the autonomic nervous system (ANS) with the spiritual wisdom of non-dual esoteric teachings. He provides psychotherapy for healing the mind at a spiritual level. Shiju also offers spiritual mentoring on "A Course in Miracles" and Buddhist teachings in the Theravada tradition.
