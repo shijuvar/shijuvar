@@ -55,10 +55,10 @@ Provides training (both class room and online) and consulting on Go, Microservic
 * Decomposition Patterns for Microservices 
 * Domain-Driven Design (DDD)
 * A deep dive into gRPC and Protocol Buffers
-* Working with CockroachDB - A distributed, fault-tolerant database 
 * A deep dive into distributed messaging/streaming systems: NATS and NATS JetStream 
-* Building event-driven streaming systems with NATS JetStream 
-* Microservices development with Go kit
+* Building event-driven streaming systems with NATS JetStream
+* Event Sourcing and CQRS
+
 
 ### Shiju Varghese
 --------------------------------------------------------
