@@ -1,3 +1,5 @@
+# One on One Mentoring 
+
 Module | Module Name  |  Duration
 -------| -------------| -------------
 1  | Writing idiomatic Go code with struct, interface, packages, and SOLID principles  | 4 Hours
@@ -8,6 +10,6 @@ Module | Module Name  |  Duration
 6  | Building OpenAPI based REST API using HUMA framework | 4 Hours
 7  | Building APIs using gRPC and Protocol Buffers | 4 Hours
 8  | Distributed Systems programming fundamentals  | 2 Hours
-9  | Building Event-Driven Distributed Systems and Microservices with NATS and NATS JetStream | 8 Hours
+9  | Building Event-Driven Distributed Systems with NATS and NATS JetStream | 8 Hours
 
 
