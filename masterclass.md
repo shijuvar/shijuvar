@@ -41,7 +41,7 @@ Provides training (both class room and online) and consulting on Go, Microservic
 --------------------------------------------------------
 **Course Duration:** 
 * Classroom/Online Training for Corporate Organizations: 4 Days
-* * Online Training for public audience: 20 hours
+* Online Training for public audience: 20 hours
 
 **Prerequisite:**  Completion of "Professional Go" course or Go developers with deep knowledge on SOLID principles 
 
