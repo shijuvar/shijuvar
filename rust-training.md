@@ -2,7 +2,7 @@
 
 Module | Module Name  |  Duration
 -------| -------------| -------------
-1  | Rust basics: Introduction, Cargo, Variable Declarations, Control Flow, Functions, Enum, Error Handling   | 8 Hour
+1  | Rust basics: Introduction, Cargo, Variable Declarations, Data Types, Control Flow, Functions, Enum, Error Handling   | 8 Hour
 2  | Memory management with Ownership  | 4 Hour
 3  | Working with Struct   | 4 Hour
 4  | Packages, Crates, and Modules  | 4 Hour
