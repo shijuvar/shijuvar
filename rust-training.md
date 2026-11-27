@@ -10,7 +10,7 @@ Module | Module Name  |  Duration
 6  | Generic Types, Traits  | 4 Hour
 7  | Writing Unit Tests  | 4 Hour
 8  | Smart Pointers  | 2 Hour
-9  | Concurrency Programming  | 4 Hour
-10  | Asynchronous Programming: Async, Await, Futures, and Streams  | 4 Hour
+9  | Concurrency Programming  | 8 Hour
+10  | Asynchronous Programming: Async, Await, Futures, and Streams  | 16 Hour
 11  | Advanced Features  | 8 Hour
 
