@@ -1,4 +1,4 @@
-# One on One Mentoring 
+# One on One Mentoring: Go Programming Language 
 
 Module | Module Name  |  Duration
 -------| -------------| -------------
